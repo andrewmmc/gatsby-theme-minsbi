@@ -17,3 +17,4 @@ jobs:
         working-directory: gatsby-theme-minsbi
         env:
           NODE_AUTH_TOKEN: ${{secrets.NPM_AUTH_TOKEN}}
+
